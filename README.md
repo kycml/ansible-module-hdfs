@@ -1,0 +1,1 @@
+Modele of ansible for hdfs.
